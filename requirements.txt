@@ -1,0 +1,4 @@
+radis>=0.17
+numpy
+matplotlib
+python-docx
