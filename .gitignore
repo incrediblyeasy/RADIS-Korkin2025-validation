@@ -1,0 +1,8 @@
+radis-env/
+__pycache__/
+*.pyc
+aspect_gcell/
+paper.txt
+*.zip
+figures/*.txt
+*.log
