@@ -1,4 +1,7 @@
 radis>=0.17
 numpy
+scipy
 matplotlib
 python-docx
+requests        # NASA PSG API client (psg_atmosphere.py)
+pymsis          # NRLMSIS 2.1 empirical atmosphere (psg_atmosphere.py)
