@@ -23,9 +23,10 @@ figures/*.txt
 # Logs
 *.log
 
-# Generated reports (rebuilt by the make_*_report.py scripts)
+# Generated reports / slide decks (rebuilt by the make_*.py scripts)
 *Report*.pdf
 *Report*.docx
+*Slides*.pptx
 
 # Reference paper (copyright — not redistributed; see DOI in README)
 paper.txt
